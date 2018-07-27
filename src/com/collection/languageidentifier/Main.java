@@ -4,7 +4,7 @@ package com.collection.languageidentifier;
 public class Main {
    public static void main(String[] args) {
 	   
-	   String content = "Enhver har ret til undervisning. Undervisningen skal være gratis, i det mindste på de elementære og grundlæggende trin. Elementær undervisning skal være obligatorisk. Teknisk og faglig uddannelse skal gøres almindelig tilgængelig for alle, og på grundlag af evner skal der være lige adgang for alle til højere undervisning.";
+	   String content = "MbaÃ©â€™chepa nderÃ©ra? NdaikuaÃ¡i la eresÃ©va. ReÃ±eâ€™eÌƒ piko avanÌƒeâ€™eÌƒnte tÃ©raÌƒ ambue nÌƒeâ€™eÌƒ avei. MboÃ½ kÃ³a?";
 	   
 	   // Identify langugae of text
 	   String detectedLanguage = IdentifierFunctions.languageIdentifier(content);

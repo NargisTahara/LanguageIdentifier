@@ -3,7 +3,7 @@ package com.collection.languageidentifier;
 
 public class IdentifierFunctions {
 	
-	static Object[][] allLanguages = {{"English",0}, {"Italian",0}, {"French",0}, {"Spanish",0}, {"Dutch",0}, {"German",0}, {"Danish",0}};
+	static Object[][] allLanguages = {{"English",0}, {"Italian",0}, {"French",0}, {"Spanish",0}, {"Dutch",0}, {"German",0}, {"Danish",0}, {"Romanian",0}, {"Portuguese",0}, {"Walloon",0}, {"Swedish",0}, {"Norwegian",0}, {"Azeri",0}, {"Icelandic",0}, {"Polish",0}, {"Guaraní",0}};
 	
 	static int englishScore = 0;
 	static int italianScore = 0;
@@ -20,6 +20,15 @@ public class IdentifierFunctions {
 		allLanguages[4][1] = CommonWordsScoreCalculator.CommonWordsScore(content,LanguageRules.dutchCommonWords) + SuffixScoreCalculator.SuffixScore(content,LanguageRules.dutchSuffixes);
 		allLanguages[5][1] = CommonWordsScoreCalculator.CommonWordsScore(content,LanguageRules.germanCommonWords) + SuffixScoreCalculator.SuffixScore(content,LanguageRules.germanSuffixes);
 		allLanguages[6][1] = CommonWordsScoreCalculator.CommonWordsScore(content,LanguageRules.danishCommonWords) + SuffixScoreCalculator.SuffixScore(content,LanguageRules.danishSuffixes);
+		allLanguages[7][1] = CommonWordsScoreCalculator.CommonWordsScore(content,LanguageRules.romanianCommonWords) + SuffixScoreCalculator.SuffixScore(content,LanguageRules.romanianSuffixes);
+		allLanguages[8][1] = CommonWordsScoreCalculator.CommonWordsScore(content,LanguageRules.portugueseCommonWords) + SuffixScoreCalculator.SuffixScore(content,LanguageRules.portugueseSuffixes);
+		allLanguages[9][1] = CommonWordsScoreCalculator.CommonWordsScore(content,LanguageRules.walloonCommonWords) + SuffixScoreCalculator.SuffixScore(content,LanguageRules.walloonSuffixes);
+		allLanguages[10][1] = CommonWordsScoreCalculator.CommonWordsScore(content,LanguageRules.swedishCommonWords) + SuffixScoreCalculator.SuffixScore(content,LanguageRules.swedishSuffixes);
+		allLanguages[11][1] = CommonWordsScoreCalculator.CommonWordsScore(content,LanguageRules.norwegianCommonWords) + SuffixScoreCalculator.SuffixScore(content,LanguageRules.norwegianSuffixes);
+		allLanguages[12][1] = CommonWordsScoreCalculator.CommonWordsScore(content,LanguageRules.azeriCommonWords) + SuffixScoreCalculator.SuffixScore(content,LanguageRules.azeriSuffixes);
+		allLanguages[13][1] = CommonWordsScoreCalculator.CommonWordsScore(content,LanguageRules.icelandicCommonWords) + SuffixScoreCalculator.SuffixScore(content,LanguageRules.icelandicSuffixes);
+		allLanguages[14][1] = CommonWordsScoreCalculator.CommonWordsScore(content,LanguageRules.polishCommonWords) + SuffixScoreCalculator.SuffixScore(content,LanguageRules.polishSuffixes);
+		allLanguages[15][1] = CommonWordsScoreCalculator.CommonWordsScore(content,LanguageRules.guaraníCommonWords) + SuffixScoreCalculator.SuffixScore(content,LanguageRules.guaraníSuffixes);
 		
 		//Temporary
 		for(int i = 0; i < allLanguages.length; i++)
