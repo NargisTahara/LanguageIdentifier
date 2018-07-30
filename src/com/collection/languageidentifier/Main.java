@@ -12,9 +12,8 @@ public class Main {
        PrintStream o = new PrintStream(new File("..\\LanguageIdentifier\\Output\\output.txt"));
        System.setOut(o);
        
-	   final File file = new File("..\\LanguageIdentifier\\Datasets");
+       final File file = new File("..\\LanguageIdentifier\\Datasets");
 	  
-	   
 	   // Identify languages of all files given in subfolders of Dataset folder
 	   for(final File child1 : file.listFiles()) {
 		   
