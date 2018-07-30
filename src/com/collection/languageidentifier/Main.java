@@ -28,6 +28,6 @@ public class Main {
     		   // IdentifierFunctions.identifyLanguage identify the language of given file
     		   System.out.println("File Name: "+child.getName()+", Original Language: "+child1.getName()+", Identified Language: "+IdentifierFunctions.identifyLanguage(entireFileText));
     	   }
-	   }
+	}
    }
 }
