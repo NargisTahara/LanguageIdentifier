@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class Main {
    public static void main(String[] args) throws FileNotFoundException {
 	   
-	   // Write into file instead of console 
+       // Write into file instead of console 
        PrintStream o = new PrintStream(new File("..\\LanguageIdentifier\\Output\\output.txt"));
        System.setOut(o);
        
