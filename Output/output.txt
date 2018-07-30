@@ -1,0 +1,415 @@
+
+
+#######################
+Test files for Azeri
+#######################
+
+
+File Name: Azeri_l1.txt, Original Language: Azeri, Identified Language: Azeri 
+File Name: Azeri_l2.txt, Original Language: Azeri, Identified Language: Azeri 
+File Name: Azeri_l3.txt, Original Language: Azeri, Identified Language: Azeri 
+File Name: Azeri_l4.txt, Original Language: Azeri, Identified Language: Azeri 
+File Name: Azeri_l5.txt, Original Language: Azeri, Identified Language: Azeri 
+File Name: Azeri_s1.txt, Original Language: Azeri, Identified Language: Azeri 
+File Name: Azeri_s2.txt, Original Language: Azeri, Identified Language: Azeri 
+File Name: Azeri_s3.txt, Original Language: Azeri, Identified Language: Azeri 
+File Name: Azeri_s4.txt, Original Language: Azeri, Identified Language: Azeri 
+File Name: Azeri_s5.txt, Original Language: Azeri, Identified Language: Azeri 
+
+
+#######################
+Test files for Dutch
+#######################
+
+
+File Name: nl_NL_l1, Original Language: Dutch, Identified Language: Dutch 
+File Name: nl_NL_l10, Original Language: Dutch, Identified Language: Dutch 
+File Name: nl_NL_l2, Original Language: Dutch, Identified Language: Dutch 
+File Name: nl_NL_l3, Original Language: Dutch, Identified Language: Dutch 
+File Name: nl_NL_l4, Original Language: Dutch, Identified Language: Dutch 
+File Name: nl_NL_l5, Original Language: Dutch, Identified Language: Dutch 
+File Name: nl_NL_l6, Original Language: Dutch, Identified Language: Dutch 
+File Name: nl_NL_l7, Original Language: Dutch, Identified Language: Dutch 
+File Name: nl_NL_l8, Original Language: Dutch, Identified Language: Dutch 
+File Name: nl_NL_l9, Original Language: Dutch, Identified Language: Dutch 
+File Name: nl_NL_m1, Original Language: Dutch, Identified Language: Dutch 
+File Name: nl_NL_m10, Original Language: Dutch, Identified Language: Dutch 
+File Name: nl_NL_m2, Original Language: Dutch, Identified Language: Dutch 
+File Name: nl_NL_m3, Original Language: Dutch, Identified Language: Dutch 
+File Name: nl_NL_m4, Original Language: Dutch, Identified Language: Dutch 
+File Name: nl_NL_m5, Original Language: Dutch, Identified Language: Dutch 
+File Name: nl_NL_m6, Original Language: Dutch, Identified Language: Dutch 
+File Name: nl_NL_m7, Original Language: Dutch, Identified Language: Dutch 
+File Name: nl_NL_m8, Original Language: Dutch, Identified Language: Dutch 
+File Name: nl_NL_m9, Original Language: Dutch, Identified Language: Dutch 
+File Name: nl_NL_s1, Original Language: Dutch, Identified Language: Dutch 
+File Name: nl_NL_s10, Original Language: Dutch, Identified Language: Dutch 
+File Name: nl_NL_s2, Original Language: Dutch, Identified Language: Dutch 
+File Name: nl_NL_s3, Original Language: Dutch, Identified Language: French Dutch 
+File Name: nl_NL_s4, Original Language: Dutch, Identified Language: Dutch 
+File Name: nl_NL_s5, Original Language: Dutch, Identified Language: Dutch 
+File Name: nl_NL_s6, Original Language: Dutch, Identified Language: Dutch 
+File Name: nl_NL_s7, Original Language: Dutch, Identified Language: Dutch 
+File Name: nl_NL_s8, Original Language: Dutch, Identified Language: Dutch 
+File Name: nl_NL_s9, Original Language: Dutch, Identified Language: Dutch 
+
+
+#######################
+Test files for English
+#######################
+
+
+File Name: en_UK_l1, Original Language: English, Identified Language: English 
+File Name: en_UK_l10, Original Language: English, Identified Language: English 
+File Name: en_UK_l2, Original Language: English, Identified Language: English 
+File Name: en_UK_l3, Original Language: English, Identified Language: English 
+File Name: en_UK_l4, Original Language: English, Identified Language: English 
+File Name: en_UK_l5, Original Language: English, Identified Language: English 
+File Name: en_UK_l6, Original Language: English, Identified Language: English 
+File Name: en_UK_l7, Original Language: English, Identified Language: English 
+File Name: en_UK_l8, Original Language: English, Identified Language: English 
+File Name: en_UK_l9, Original Language: English, Identified Language: English 
+File Name: en_UK_m1, Original Language: English, Identified Language: English 
+File Name: en_UK_m10, Original Language: English, Identified Language: English 
+File Name: en_UK_m2, Original Language: English, Identified Language: English 
+File Name: en_UK_m3, Original Language: English, Identified Language: English 
+File Name: en_UK_m4, Original Language: English, Identified Language: English 
+File Name: en_UK_m5, Original Language: English, Identified Language: English 
+File Name: en_UK_m6, Original Language: English, Identified Language: English 
+File Name: en_UK_m7, Original Language: English, Identified Language: English 
+File Name: en_UK_m8, Original Language: English, Identified Language: English 
+File Name: en_UK_m9, Original Language: English, Identified Language: English 
+File Name: en_UK_s1, Original Language: English, Identified Language: English 
+File Name: en_UK_s10, Original Language: English, Identified Language: English 
+File Name: en_UK_s2, Original Language: English, Identified Language: English 
+File Name: en_UK_s3, Original Language: English, Identified Language: English 
+File Name: en_UK_s4, Original Language: English, Identified Language: English 
+File Name: en_UK_s5, Original Language: English, Identified Language: English 
+File Name: en_UK_s6, Original Language: English, Identified Language: English 
+File Name: en_UK_s7, Original Language: English, Identified Language: English 
+File Name: en_UK_s8, Original Language: English, Identified Language: English 
+File Name: en_UK_s9, Original Language: English, Identified Language: English 
+
+
+#######################
+Test files for French
+#######################
+
+
+File Name: fr_FR_l1, Original Language: French, Identified Language: French 
+File Name: fr_FR_l10, Original Language: French, Identified Language: French 
+File Name: fr_FR_l2, Original Language: French, Identified Language: French 
+File Name: fr_FR_l3, Original Language: French, Identified Language: French 
+File Name: fr_FR_l4, Original Language: French, Identified Language: French 
+File Name: fr_FR_l5, Original Language: French, Identified Language: French 
+File Name: fr_FR_l6, Original Language: French, Identified Language: French 
+File Name: fr_FR_l7, Original Language: French, Identified Language: French 
+File Name: fr_FR_l8, Original Language: French, Identified Language: French 
+File Name: fr_FR_l9, Original Language: French, Identified Language: French 
+File Name: fr_FR_m1, Original Language: French, Identified Language: French 
+File Name: fr_FR_m2, Original Language: French, Identified Language: French 
+File Name: fr_FR_m3, Original Language: French, Identified Language: French 
+File Name: fr_FR_m4, Original Language: French, Identified Language: French 
+File Name: fr_FR_m5, Original Language: French, Identified Language: French 
+File Name: fr_FR_m6, Original Language: French, Identified Language: French 
+File Name: fr_FR_m7, Original Language: French, Identified Language: French 
+File Name: fr_FR_m8, Original Language: French, Identified Language: French 
+File Name: fr_FR_m9, Original Language: French, Identified Language: French 
+File Name: fr_FR_s1, Original Language: French, Identified Language: French 
+File Name: fr_FR_s10, Original Language: French, Identified Language: French 
+File Name: fr_FR_s2, Original Language: French, Identified Language: French 
+File Name: fr_FR_s3, Original Language: French, Identified Language: French 
+File Name: fr_FR_s4, Original Language: French, Identified Language: Spanish 
+File Name: fr_FR_s5, Original Language: French, Identified Language: French 
+File Name: fr_FR_s6, Original Language: French, Identified Language: French 
+File Name: fr_FR_s7, Original Language: French, Identified Language: French 
+File Name: fr_FR_s8, Original Language: French, Identified Language: French 
+File Name: fr_FR_s9, Original Language: French, Identified Language: French 
+
+
+#######################
+Test files for German
+#######################
+
+
+File Name: de_DE_l1, Original Language: German, Identified Language: German 
+File Name: de_DE_l10, Original Language: German, Identified Language: German 
+File Name: de_DE_l2, Original Language: German, Identified Language: German 
+File Name: de_DE_l3, Original Language: German, Identified Language: German 
+File Name: de_DE_l4, Original Language: German, Identified Language: German 
+File Name: de_DE_l5, Original Language: German, Identified Language: German 
+File Name: de_DE_l6, Original Language: German, Identified Language: German 
+File Name: de_DE_l7, Original Language: German, Identified Language: German 
+File Name: de_DE_l8, Original Language: German, Identified Language: German 
+File Name: de_DE_l9, Original Language: German, Identified Language: German 
+File Name: de_DE_m1, Original Language: German, Identified Language: German 
+File Name: de_DE_m10, Original Language: German, Identified Language: German 
+File Name: de_DE_m2, Original Language: German, Identified Language: German 
+File Name: de_DE_m3, Original Language: German, Identified Language: German 
+File Name: de_DE_m4, Original Language: German, Identified Language: German 
+File Name: de_DE_m5, Original Language: German, Identified Language: German 
+File Name: de_DE_m6, Original Language: German, Identified Language: German 
+File Name: de_DE_m7, Original Language: German, Identified Language: German 
+File Name: de_DE_m8, Original Language: German, Identified Language: German 
+File Name: de_DE_m9, Original Language: German, Identified Language: German 
+File Name: de_DE_s1, Original Language: German, Identified Language: German 
+File Name: de_DE_s10, Original Language: German, Identified Language: German 
+File Name: de_DE_s2, Original Language: German, Identified Language: German 
+File Name: de_DE_s3, Original Language: German, Identified Language: German 
+File Name: de_DE_s4, Original Language: German, Identified Language: German 
+File Name: de_DE_s5, Original Language: German, Identified Language: German 
+File Name: de_DE_s6, Original Language: German, Identified Language: German 
+File Name: de_DE_s7, Original Language: German, Identified Language: German 
+File Name: de_DE_s8, Original Language: German, Identified Language: German 
+File Name: de_DE_s9, Original Language: German, Identified Language: German 
+
+
+#######################
+Test files for Icelandic
+#######################
+
+
+File Name: Icelandic_l.txt, Original Language: Icelandic, Identified Language: Icelandic 
+File Name: Icelandic_s1.txt, Original Language: Icelandic, Identified Language: Icelandic 
+File Name: Icelandic_s2.txt, Original Language: Icelandic, Identified Language: Icelandic 
+File Name: Icelandic_s3.txt, Original Language: Icelandic, Identified Language: Icelandic 
+File Name: Icelandic_s4.txt, Original Language: Icelandic, Identified Language: Icelandic 
+File Name: Icelandic_s5.txt, Original Language: Icelandic, Identified Language: Icelandic 
+File Name: Icelandic_s6.txt, Original Language: Icelandic, Identified Language: Icelandic 
+
+
+#######################
+Test files for Italian
+#######################
+
+
+File Name: it_IT_l1, Original Language: Italian, Identified Language: Italian 
+File Name: it_IT_l2, Original Language: Italian, Identified Language: Italian 
+File Name: it_IT_l3, Original Language: Italian, Identified Language: Italian 
+File Name: it_IT_l4, Original Language: Italian, Identified Language: Italian 
+File Name: it_IT_l5, Original Language: Italian, Identified Language: Italian 
+File Name: it_IT_l6, Original Language: Italian, Identified Language: Italian 
+File Name: it_IT_l7, Original Language: Italian, Identified Language: Italian 
+File Name: it_IT_l8, Original Language: Italian, Identified Language: Italian 
+File Name: it_IT_l9, Original Language: Italian, Identified Language: Italian 
+File Name: it_IT_m1, Original Language: Italian, Identified Language: Italian 
+File Name: it_IT_m10, Original Language: Italian, Identified Language: Italian 
+File Name: it_IT_m2, Original Language: Italian, Identified Language: Italian 
+File Name: it_IT_m3, Original Language: Italian, Identified Language: Italian 
+File Name: it_IT_m4, Original Language: Italian, Identified Language: Italian 
+File Name: it_IT_m5, Original Language: Italian, Identified Language: Italian 
+File Name: it_IT_m6, Original Language: Italian, Identified Language: Italian 
+File Name: it_IT_m7, Original Language: Italian, Identified Language: Italian 
+File Name: it_IT_m8, Original Language: Italian, Identified Language: Italian 
+File Name: it_IT_m9, Original Language: Italian, Identified Language: Italian 
+File Name: it_IT_s1, Original Language: Italian, Identified Language: Italian 
+File Name: it_IT_s10, Original Language: Italian, Identified Language: Italian 
+File Name: it_IT_s2, Original Language: Italian, Identified Language: Italian German 
+File Name: it_IT_s3, Original Language: Italian, Identified Language: Italian 
+File Name: it_IT_s4, Original Language: Italian, Identified Language: English Italian French Walloon 
+File Name: it_IT_s5, Original Language: Italian, Identified Language: English Italian Spanish Azeri 
+File Name: it_IT_s6, Original Language: Italian, Identified Language: Italian French 
+File Name: it_IT_s7, Original Language: Italian, Identified Language: Italian 
+File Name: it_IT_s8, Original Language: Italian, Identified Language: Italian 
+File Name: it_IT_s9, Original Language: Italian, Identified Language: Italian 
+
+
+#######################
+Test files for Norwegian
+#######################
+
+
+File Name: Norwegian_l1.txt, Original Language: Norwegian, Identified Language: Norwegian 
+File Name: Norwegian_l10.txt, Original Language: Norwegian, Identified Language: Norwegian 
+File Name: Norwegian_l2.txt, Original Language: Norwegian, Identified Language: Norwegian 
+File Name: Norwegian_l3.txt, Original Language: Norwegian, Identified Language: Norwegian 
+File Name: Norwegian_l4.txt, Original Language: Norwegian, Identified Language: Norwegian 
+File Name: Norwegian_l5.txt, Original Language: Norwegian, Identified Language: Norwegian 
+File Name: Norwegian_l6.txt, Original Language: Norwegian, Identified Language: Norwegian 
+File Name: Norwegian_l7.txt, Original Language: Norwegian, Identified Language: Norwegian 
+File Name: Norwegian_l8.txt, Original Language: Norwegian, Identified Language: Norwegian 
+File Name: Norwegian_l9.txt, Original Language: Norwegian, Identified Language: Norwegian 
+File Name: Norwegian_s1.txt, Original Language: Norwegian, Identified Language: Norwegian 
+File Name: Norwegian_s10.txt, Original Language: Norwegian, Identified Language: Norwegian 
+File Name: Norwegian_s11.txt, Original Language: Norwegian, Identified Language: Norwegian 
+File Name: Norwegian_s12.txt, Original Language: Norwegian, Identified Language: Norwegian 
+File Name: Norwegian_s13.txt, Original Language: Norwegian, Identified Language: Norwegian 
+File Name: Norwegian_s14.txt, Original Language: Norwegian, Identified Language: Norwegian 
+File Name: Norwegian_s15.txt, Original Language: Norwegian, Identified Language: Norwegian 
+File Name: Norwegian_s16.txt, Original Language: Norwegian, Identified Language: Norwegian 
+File Name: Norwegian_s17.txt, Original Language: Norwegian, Identified Language: Norwegian 
+File Name: Norwegian_s18.txt, Original Language: Norwegian, Identified Language: Norwegian 
+File Name: Norwegian_s19.txt, Original Language: Norwegian, Identified Language: Norwegian 
+File Name: Norwegian_s2.txt, Original Language: Norwegian, Identified Language: Norwegian 
+File Name: Norwegian_s20.txt, Original Language: Norwegian, Identified Language: German Norwegian 
+File Name: Norwegian_s3.txt, Original Language: Norwegian, Identified Language: Norwegian 
+File Name: Norwegian_s4.txt, Original Language: Norwegian, Identified Language: Norwegian 
+File Name: Norwegian_s5.txt, Original Language: Norwegian, Identified Language: Norwegian 
+File Name: Norwegian_s6.txt, Original Language: Norwegian, Identified Language: Norwegian 
+File Name: Norwegian_s7.txt, Original Language: Norwegian, Identified Language: Norwegian 
+File Name: Norwegian_s8.txt, Original Language: Norwegian, Identified Language: Norwegian 
+File Name: Norwegian_s9.txt, Original Language: Norwegian, Identified Language: Norwegian 
+
+
+#######################
+Test files for Polish
+#######################
+
+
+File Name: Polish_l1.txt, Original Language: Polish, Identified Language: Polish 
+File Name: Polish_l10.txt, Original Language: Polish, Identified Language: Polish 
+File Name: Polish_l2.txt, Original Language: Polish, Identified Language: Polish 
+File Name: Polish_l3.txt, Original Language: Polish, Identified Language: Polish 
+File Name: Polish_l4.txt, Original Language: Polish, Identified Language: Polish 
+File Name: Polish_l5.txt, Original Language: Polish, Identified Language: Polish 
+File Name: Polish_l6.txt, Original Language: Polish, Identified Language: Polish 
+File Name: Polish_l7.txt, Original Language: Polish, Identified Language: Polish 
+File Name: Polish_l8.txt, Original Language: Polish, Identified Language: Polish 
+File Name: Polish_l9.txt, Original Language: Polish, Identified Language: Polish 
+File Name: Polish_s1.txt, Original Language: Polish, Identified Language: Polish 
+File Name: Polish_s10.txt, Original Language: Polish, Identified Language: Polish 
+File Name: Polish_s11.txt, Original Language: Polish, Identified Language: Polish 
+File Name: Polish_s12.txt, Original Language: Polish, Identified Language: Polish 
+File Name: Polish_s13.txt, Original Language: Polish, Identified Language: Polish 
+File Name: Polish_s14.txt, Original Language: Polish, Identified Language: Polish 
+File Name: Polish_s15.txt, Original Language: Polish, Identified Language: Polish 
+File Name: Polish_s16.txt, Original Language: Polish, Identified Language: Polish 
+File Name: Polish_s17.txt, Original Language: Polish, Identified Language: Polish 
+File Name: Polish_s18.txt, Original Language: Polish, Identified Language: Polish 
+File Name: Polish_s19.txt, Original Language: Polish, Identified Language: Polish 
+File Name: Polish_s2.txt, Original Language: Polish, Identified Language: Polish 
+File Name: Polish_s20.txt, Original Language: Polish, Identified Language: Polish 
+File Name: Polish_s3.txt, Original Language: Polish, Identified Language: Polish 
+File Name: Polish_s4.txt, Original Language: Polish, Identified Language: Polish 
+File Name: Polish_s5.txt, Original Language: Polish, Identified Language: Polish 
+File Name: Polish_s6.txt, Original Language: Polish, Identified Language: Polish 
+File Name: Polish_s7.txt, Original Language: Polish, Identified Language: Polish 
+File Name: Polish_s8.txt, Original Language: Polish, Identified Language: Polish 
+File Name: Polish_s9.txt, Original Language: Polish, Identified Language: Polish 
+
+
+#######################
+Test files for Portuguese
+#######################
+
+
+File Name: portuguese_m1.txt, Original Language: Portuguese, Identified Language: Portuguese 
+File Name: portuguese_m2.txt, Original Language: Portuguese, Identified Language: Portuguese 
+File Name: portuguese_m3.txt, Original Language: Portuguese, Identified Language: Portuguese 
+File Name: portuguese_m4.txt, Original Language: Portuguese, Identified Language: Portuguese 
+File Name: portuguese_m5.txt, Original Language: Portuguese, Identified Language: Portuguese 
+File Name: portuguese_s1.txt, Original Language: Portuguese, Identified Language: Portuguese 
+File Name: portuguese_s10.txt, Original Language: Portuguese, Identified Language: Portuguese 
+File Name: portuguese_s11.txt, Original Language: Portuguese, Identified Language: Portuguese 
+File Name: portuguese_s12.txt, Original Language: Portuguese, Identified Language: Portuguese 
+File Name: portuguese_s13.txt, Original Language: Portuguese, Identified Language: Portuguese 
+File Name: portuguese_s14.txt, Original Language: Portuguese, Identified Language: Portuguese 
+File Name: portuguese_s15.txt, Original Language: Portuguese, Identified Language: Portuguese 
+File Name: portuguese_s2.txt, Original Language: Portuguese, Identified Language: Portuguese 
+File Name: portuguese_s3.txt, Original Language: Portuguese, Identified Language: Portuguese 
+File Name: portuguese_s4.txt, Original Language: Portuguese, Identified Language: Portuguese 
+File Name: portuguese_s5.txt, Original Language: Portuguese, Identified Language: Portuguese 
+File Name: portuguese_s6.txt, Original Language: Portuguese, Identified Language: Portuguese 
+File Name: portuguese_s7.txt, Original Language: Portuguese, Identified Language: Portuguese 
+File Name: portuguese_s8.txt, Original Language: Portuguese, Identified Language: Portuguese 
+File Name: portuguese_s9.txt, Original Language: Portuguese, Identified Language: Portuguese 
+
+
+#######################
+Test files for Romanian
+#######################
+
+
+File Name: Romanian_l1.txt, Original Language: Romanian, Identified Language: Romanian 
+File Name: Romanian_l2.txt, Original Language: Romanian, Identified Language: Romanian 
+File Name: Romanian_l3.txt, Original Language: Romanian, Identified Language: Romanian 
+File Name: Romanian_l4.txt, Original Language: Romanian, Identified Language: Romanian 
+File Name: Romanian_l5.txt, Original Language: Romanian, Identified Language: Romanian 
+File Name: Romanian_s1.txt, Original Language: Romanian, Identified Language: Romanian 
+File Name: Romanian_s2.txt, Original Language: Romanian, Identified Language: Romanian 
+File Name: Romanian_s3.txt, Original Language: Romanian, Identified Language: Romanian 
+File Name: Romanian_s4.txt, Original Language: Romanian, Identified Language: Romanian 
+File Name: Romanian_s5.txt, Original Language: Romanian, Identified Language: Romanian 
+
+
+#######################
+Test files for Spanish
+#######################
+
+
+File Name: es_ES_l1, Original Language: Spanish, Identified Language: Spanish 
+File Name: es_ES_l10, Original Language: Spanish, Identified Language: Spanish 
+File Name: es_ES_l2, Original Language: Spanish, Identified Language: Spanish 
+File Name: es_ES_l3, Original Language: Spanish, Identified Language: Spanish 
+File Name: es_ES_l4, Original Language: Spanish, Identified Language: Spanish 
+File Name: es_ES_l5, Original Language: Spanish, Identified Language: Spanish 
+File Name: es_ES_l6, Original Language: Spanish, Identified Language: Spanish 
+File Name: es_ES_l7, Original Language: Spanish, Identified Language: Spanish 
+File Name: es_ES_l8, Original Language: Spanish, Identified Language: Spanish 
+File Name: es_ES_l9, Original Language: Spanish, Identified Language: Spanish 
+File Name: es_ES_m1, Original Language: Spanish, Identified Language: Spanish 
+File Name: es_ES_m10, Original Language: Spanish, Identified Language: Spanish 
+File Name: es_ES_m2, Original Language: Spanish, Identified Language: Spanish 
+File Name: es_ES_m3, Original Language: Spanish, Identified Language: Spanish 
+File Name: es_ES_m4, Original Language: Spanish, Identified Language: Spanish 
+File Name: es_ES_m5, Original Language: Spanish, Identified Language: Spanish 
+File Name: es_ES_m6, Original Language: Spanish, Identified Language: Spanish 
+File Name: es_ES_m7, Original Language: Spanish, Identified Language: Spanish 
+File Name: es_ES_m8, Original Language: Spanish, Identified Language: Spanish 
+File Name: es_ES_m9, Original Language: Spanish, Identified Language: Spanish 
+File Name: es_ES_s1, Original Language: Spanish, Identified Language: Spanish 
+File Name: es_ES_s10, Original Language: Spanish, Identified Language: Spanish 
+File Name: es_ES_s2, Original Language: Spanish, Identified Language: Dutch 
+File Name: es_ES_s3, Original Language: Spanish, Identified Language: Spanish 
+File Name: es_ES_s4, Original Language: Spanish, Identified Language: Spanish 
+File Name: es_ES_s5, Original Language: Spanish, Identified Language: Spanish 
+File Name: es_ES_s6, Original Language: Spanish, Identified Language: Spanish 
+File Name: es_ES_s7, Original Language: Spanish, Identified Language: Spanish 
+File Name: es_ES_s8, Original Language: Spanish, Identified Language: Spanish 
+File Name: es_ES_s9, Original Language: Spanish, Identified Language: Spanish 
+
+
+#######################
+Test files for Swedish
+#######################
+
+
+File Name: Swedish_l1.txt, Original Language: Swedish, Identified Language: Swedish 
+File Name: Swedish_l2.txt, Original Language: Swedish, Identified Language: Swedish 
+File Name: Swedish_l3.txt, Original Language: Swedish, Identified Language: Swedish 
+File Name: Swedish_l4.txt, Original Language: Swedish, Identified Language: Swedish 
+File Name: Swedish_l5.txt, Original Language: Swedish, Identified Language: Swedish 
+File Name: Swedish_l6.txt, Original Language: Swedish, Identified Language: Swedish 
+File Name: Swedish_l7.txt, Original Language: Swedish, Identified Language: Swedish 
+File Name: Swedish_l8.txt, Original Language: Swedish, Identified Language: Swedish 
+File Name: Swedish_s1.txt, Original Language: Swedish, Identified Language: Swedish 
+File Name: Swedish_s10.txt, Original Language: Swedish, Identified Language: Swedish 
+File Name: Swedish_s11.txt, Original Language: Swedish, Identified Language: Swedish 
+File Name: Swedish_s12.txt, Original Language: Swedish, Identified Language: Swedish 
+File Name: Swedish_s13.txt, Original Language: Swedish, Identified Language: Swedish 
+File Name: Swedish_s14.txt, Original Language: Swedish, Identified Language: Swedish 
+File Name: Swedish_s15.txt, Original Language: Swedish, Identified Language: Swedish 
+File Name: Swedish_s16.txt, Original Language: Swedish, Identified Language: Swedish 
+File Name: Swedish_s17.txt, Original Language: Swedish, Identified Language: Swedish 
+File Name: Swedish_s18.txt, Original Language: Swedish, Identified Language: Swedish 
+File Name: Swedish_s2.txt, Original Language: Swedish, Identified Language: Swedish 
+File Name: Swedish_s3.txt, Original Language: Swedish, Identified Language: Swedish 
+File Name: Swedish_s4.txt, Original Language: Swedish, Identified Language: Swedish 
+File Name: Swedish_s5.txt, Original Language: Swedish, Identified Language: Swedish 
+File Name: Swedish_s6.txt, Original Language: Swedish, Identified Language: Swedish 
+File Name: Swedish_s7.txt, Original Language: Swedish, Identified Language: Swedish 
+File Name: Swedish_s8.txt, Original Language: Swedish, Identified Language: Swedish 
+File Name: Swedish_s9.txt, Original Language: Swedish, Identified Language: Swedish 
+
+
+#######################
+Test files for Walloon
+#######################
+
+
+File Name: Walloon_l1.txt, Original Language: Walloon, Identified Language: Walloon 
+File Name: Walloon_l2.txt, Original Language: Walloon, Identified Language: Walloon 
+File Name: Walloon_l3.txt, Original Language: Walloon, Identified Language: Walloon 
+File Name: Walloon_s1.txt, Original Language: Walloon, Identified Language: Walloon 
+File Name: Walloon_s2.txt, Original Language: Walloon, Identified Language: English Walloon 
+File Name: Walloon_s3.txt, Original Language: Walloon, Identified Language: Walloon 
