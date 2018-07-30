@@ -3,8 +3,7 @@ package com.collection.languageidentifier;
 public class SuffixScoreCalculator {
 	
 	// Calculate suffix score
-	public static int SuffixScore(String content, String[] languageTokens)
-	{
+	public static int computeSuffixScore(String content, String[] languageTokens){
 		String[] contentTokens = content.split(" ");
 		int score = 0;
 		
@@ -23,7 +22,6 @@ public class SuffixScoreCalculator {
 				// check suffixes of length 3 
 				if(token.length() >= 3 && token.substring(token.length()-3).equals(languageToken)) {
 					score = score + 1;
-					//System.out.println(token);
 				}
 				
 				// check suffixes of length 4 

@@ -3,7 +3,7 @@ package com.collection.languageidentifier;
 public class SpecialCharactersScoreCalculator {
 	
 	// Calculate special character score 
-	public static int SpecialCharactersScore(String content, char[] languageTokens) {
+	public static int computeSpecialCharactersScore(String content, char[] languageTokens) {
 		
 		char[] cArray = content.toCharArray();
 		int score = 0;

@@ -3,7 +3,7 @@ package com.collection.languageidentifier;
 public class CommonWordsScoreCalculator {
 	
 	// Calculate common word score 
-	public static int CommonWordsScore(String content, String[] languageTokens) {
+	public static int computeCommonWordsScore(String content, String[] languageTokens) {
 		
 		String[] contentTokens = content.split(" ");
 		int score = 0;
@@ -12,7 +12,6 @@ public class CommonWordsScoreCalculator {
 			for(String languageToken: languageTokens ) {
 				if(token.equals(languageToken)) {
 					score = score + 1;
-					//System.out.println(token);
 				}
 			}
 		}
