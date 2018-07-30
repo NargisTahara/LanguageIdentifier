@@ -13,11 +13,11 @@ public class Main {
        System.setOut(o);
        
        final File file = new File("..\\LanguageIdentifier\\Datasets");
-	  
-	   // Identify languages of all files given in subfolders of Dataset folder
-	   for(final File child1 : file.listFiles()) {
+       
+       // Identify languages of all files given in subfolders of Dataset folder
+       for(final File child1 : file.listFiles()) {
 		   
-		   System.out.println("\n\n#######################");
+    	   System.out.println("\n\n#######################");
 		   System.out.println("Test files for "+child1.getName());
 		   System.out.println("#######################\n\n");
 		   
